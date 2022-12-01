@@ -1,0 +1,12 @@
+header h1 {
+    background: url("svg/icons8-helix-jump-50.svg") left / auto 100% no-repeat, url("svg/icons8-helix-jump-50.svg") right / auto 100% no-repeat;
+}
+.root {
+    font-size: larger;
+}
+img.main-image {
+    width: 300px;
+}
+img.additional-image {
+    width: 180px;
+}
