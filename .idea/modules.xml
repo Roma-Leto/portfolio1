@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../DjangoProject/abkey/.idea/abkey.iml" filepath="$PROJECT_DIR$/../../../DjangoProject/abkey/.idea/abkey.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/bboard.iml" filepath="$PROJECT_DIR$/.idea/bboard.iml" />
     </modules>
   </component>
